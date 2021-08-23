@@ -1,2 +1,10 @@
 # Taiwan-Inbound-and-Outbound-Analysis
-This is a Tableau visualization project that analyzes the "residence" of inbound foreigner, and the 'destination' of outbound Taiwan citizens.
+Where do the visitors in Taiwan come from? Which country is the most common destination when Taiwan citizens going abroad? You can find out in this dashboard!
+## Objective
+Practice the following functions:
+1. Customizing icon 
+2. Actions in the dashboard
+3. Join two data sources
+## Data Source
+* [Tourism Statistics Database of the Taiwan Tourism Bureau](https://stat.taiwan.net.tw/statistics)
+
