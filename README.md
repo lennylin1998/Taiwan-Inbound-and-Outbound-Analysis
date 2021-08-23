@@ -7,4 +7,5 @@ Practice the following functions:
 3. Join two data sources
 ## Data Source
 * [Tourism Statistics Database of the Taiwan Tourism Bureau](https://stat.taiwan.net.tw/statistics)
-
+## Tableau Public Link
+[Dashboard Here](https://public.tableau.com/app/profile/lenny.lin/viz/TaiwanInBoundOutboundAnalysis/1)
